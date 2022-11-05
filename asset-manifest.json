@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/oderlive/react-quiz.git/static/css/main.645c60eb.css",
-    "main.js": "/oderlive/react-quiz.git/static/js/main.3b302656.js",
+    "main.js": "/oderlive/react-quiz.git/static/js/main.dea23e56.js",
     "static/js/787.d0dceb66.chunk.js": "/oderlive/react-quiz.git/static/js/787.d0dceb66.chunk.js",
     "index.html": "/oderlive/react-quiz.git/index.html",
     "main.645c60eb.css.map": "/oderlive/react-quiz.git/static/css/main.645c60eb.css.map",
-    "main.3b302656.js.map": "/oderlive/react-quiz.git/static/js/main.3b302656.js.map",
+    "main.dea23e56.js.map": "/oderlive/react-quiz.git/static/js/main.dea23e56.js.map",
     "787.d0dceb66.chunk.js.map": "/oderlive/react-quiz.git/static/js/787.d0dceb66.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.645c60eb.css",
-    "static/js/main.3b302656.js"
+    "static/js/main.dea23e56.js"
   ]
 }
